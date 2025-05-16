@@ -24,7 +24,7 @@ Je suis Kevin, diplômé en calcul scientifique, spécialisé en modélisation p
 
 ## 📄 Mon CV
 <p align='left'>
-    <a href="https://github.com/kayivi/kayivi/blob/main/cv_kevin_ayivi.pdf"><img height="100" src="https://github.com/kayivi/kayivi/blob/main/cv_icon.png"?raw=true">
+    <a href="https://github.com/kayivi/kayivi/blob/main/cv_kevin_ayivi.pdf"><img height="200" src="https://github.com/kayivi/kayivi/blob/main/cv_kevin_ayivi.png"?raw=true">
 </p>
       
 ---

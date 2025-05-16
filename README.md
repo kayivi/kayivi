@@ -1,6 +1,8 @@
-# 👋 Kevin Ayivi | Diplômé en Calcul Scientifique
+<img src="https://raw.githubusercontent.com/kayivi/kayivi/main/banner.png" alt="kayivi" style="width:100%;"/>
 
-Spécialisé en modélisation physique et calcul haute performance, je développe des solutions innovantes pour des systèmes complexes mêlant rigueur mathématique, simulation numérique et efficacité algorithmique.
+# 👋 Bonjour
+
+Je suis Kevin, diplômé en calcul scientifique, spécialisé en modélisation physique et calcul haute performance. Je développe des solutions innovantes pour des systèmes complexes mêlant rigueur mathématique, simulation numérique et efficacité algorithmique.
 
 ---
 
@@ -21,12 +23,14 @@ Spécialisé en modélisation physique et calcul haute performance, je développ
 ---
 
 ## 📄 Mon CV
-[📄 Télécharger le CV](https://mon-lien-cv.com)
-
+<p align='left'>
+    <a href="https://github.com/kayivi/kayivi/blob/main/cv_kevin_ayivi.pdf"><img height="100" src="https://github.com/kayivi/kayivi/blob/main/cv_icon.png"?raw=true">
+</p>
+      
 ---
 
-## 🔗 Me contacter
-- [LinkedIn](https://linkedin.com/in/kevin-ayivi)
-- 📧 kevin.ayivi@gmail.com
-- [ORCID](https://orcid.org/0000-0002-XXXX-XXXX)
-
+<p align='center'>
+    <a href="https://www.linkedin.com/in/kevin-ayivi-5a0700120/"><img height="50" src="https://github.com/kayivi/kayivi/blob/main/logo_linkedin.png"?raw=true"></a>&nbsp;&nbsp
+    <a href="mailto:kevin.ayivi@gmailcom"><img height="50" src="https://github.com/kayivi/kayivi/blob/main/logo_gmail.png"?raw=true"></a>&nbsp;&nbsp
+    <a href="https://orcid.org/0009-0000-2272-0293"><img height="50" src="https://github.com/kayivi/kayivi/blob/main/logo_orcid.png"?raw=true"></a>&nbsp;&nbsp
+</p>

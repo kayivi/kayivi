@@ -15,7 +15,7 @@ Je suis Kevin, diplômé en calcul scientifique, spécialisé en modélisation p
 ---
 
 ## 🔬 Projets significatifs
-- ⚡ [Modèle dynamique électromagnétique (Maxwell, Bond Graph)](https://github.com/kevin-ayivi/em-dynamic-model) — Représentation énergétique et simulation conjointe des champs
+- ⚡ [Jumeau numérique pourr le couplage électromagnétique](https://github.com/kevin-ayivi/em-dynamic-model) — Représentation énergétique et simulation conjointe des champs
 - 🔥 [Simulation thermique 2D (FEM)](https://github.com/kevin-ayivi/heat-simulation-2d) — Modélisation de la chaleur stationnaire avec matériaux hétérogènes
 - 🧱 [RCV de pots de yaourt sous Abaqus](https://github.com/kevin-ayivi/rcv-abaqus) — Étude mécanique et optimisation avec un logiciel de simulation industrielle
 - 🧮 [Parallélisation Mandelbrot (C/MPI/CUDA)](https://github.com/kevin-ayivi/mandelbrot-parallel) — Analyse de performance sur architecture Grid5000

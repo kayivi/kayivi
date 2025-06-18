@@ -20,7 +20,6 @@ Je suis Kevin, diplômé en calcul scientifique, spécialisé en modélisation p
 - 🧱 [RCV de pots de yaourt sous Abaqus](https://github.com/kayivi/RCV_pots_yaourt) — Étude mécanique et optimisation avec un logiciel de simulation industrielle
 - 🧮 [Parallélisation Mandelbrot (C/MPI/CUDA)](https://github.com/kevin-ayivi/mandelbrot-parallel) — Analyse de performance sur architecture Grid5000
 
-
 [**Portflio complet**](./portfolio.md)  
 
 ---
